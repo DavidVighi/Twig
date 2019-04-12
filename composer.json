@@ -1,0 +1,12 @@
+{
+    "name": "david/twigity",
+    "authors": [
+        {
+            "name": "David Vighi",
+            "email": "david.vighi@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
